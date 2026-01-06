@@ -1,3 +1,4 @@
+# Expense Tracker
 expenses=[]
 def add_expense():
     date=input("Enter date (DD-MM-YYYY):")
